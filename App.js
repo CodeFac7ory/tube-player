@@ -4,7 +4,6 @@ import { Button, ThemeProvider } from 'react-native-elements';
 import Youtube from './Youtube';
 
 export default function App() {
-	console.log('RUNNING');
   return (
     <View style={styles.container}>
 	    <Youtube style={styles.youtube}>
